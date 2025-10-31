@@ -1,3 +1,5 @@
+//flutter pub get
+
 import 'package:candi_steven/models/candi.dart';
 
 var candiList = [
